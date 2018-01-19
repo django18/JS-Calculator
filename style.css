@@ -1,0 +1,40 @@
+.innerContainer{
+    border: 1px solid #eee;
+    padding: 36px;
+    box-shadow: 0px 0px 13px #0f96882b;
+}
+
+.outputScreen{
+    height: 50px;
+    border: 1px solid #dbdbdbfd;
+    padding: 5px;
+    font-size: x-large;
+    background: #555;
+    color: white;
+}
+
+button{
+    margin: 2px 0px;
+    background-color:rgb(201, 201, 201); 
+}
+
+#equalTo{
+    background-color: #009688;
+    color: white;
+}
+
+hr{
+    width: 10%;
+    border: 1px solid #009688;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: #009688;
+}
+
+.expression{
+    margin-top: 2px 0px;
+    color: rgb(231, 225, 225);
+    font-size: 0.8em;
+}
