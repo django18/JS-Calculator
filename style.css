@@ -1,0 +1,21 @@
+.innerContainer{
+    border: 1px solid #9d9d9d;
+    padding: 36px;
+}
+
+.outputScreen{
+    height: 50px;
+    border: 1px solid #dbdbdbfd;
+    padding: 5px;
+    font-size: x-large;
+}
+
+button{
+    margin: 2px 0px;
+    background-color:rgb(201, 201, 201); 
+}
+
+#equalTo{
+    background-color: #009688;
+    color: white;
+}
